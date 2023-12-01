@@ -4,7 +4,7 @@
 Fullstack developer focusing on building cool web applications to help people find information or services to use!
 
 - 👨‍🎓 Master degree in Computer Science and Human-Computer Interaction.
-- 🔭 I'm working at Accenture Song buidling large scale web applications.
+- 🔭 I'm working at TV2 buidling large scale web applications.
 - 🌱 I'm learning cloud servies.
 - ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or playing video games 🚴
 
@@ -17,7 +17,7 @@ Fullstack developer focusing on building cool web applications to help people fi
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Next" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redis" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img align="left" alt="Redis" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/AWS-original.svg" />
 
 <img align="left" alt="Nuxt" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 <img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
