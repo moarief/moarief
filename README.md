@@ -6,7 +6,7 @@ Fullstack developer focusing on building cool web applications to help people fi
 - 👨‍🎓 Master degree in Computer Science and Human-Computer Interaction.
 - 🔭 I'm working at TV2 buidling large scale web applications.
 - 🌱 I'm learning cloud servies.
-- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or playing video games 🚴
+- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 to get good ideas and clear my head 🚴
 
 ---
 
